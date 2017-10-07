@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Pistoleros Famosos</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Peliculas de Accion</title>
+<thumbnail>https://pbs.twimg.com/profile_images/2536639393/image.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwzYk1-N3PPe8h2MjcPUEShn6bqkF7003hQxvTieZqkZQ0DiG</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/marioalmada/MarioAlmada/master/balazos.xml</externallink>
 </item>
